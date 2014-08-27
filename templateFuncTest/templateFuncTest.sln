@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "templateFuncTest", "templateFuncTest\templateFuncTest.vcxproj", "{87EB9E95-A1D7-47A6-AB26-FACEFB2A38C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lua", "lua\lua.vcxproj", "{CE47B371-7D43-4F70-A138-65E2DE9E27CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "userDataTest", "userDataTest\userDataTest.vcxproj", "{0165B4DC-FAB5-411D-AF84-B18E5CF6B248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EB9E95-A1D7-47A6-AB26-FACEFB2A38C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87EB9E95-A1D7-47A6-AB26-FACEFB2A38C3}.Debug|Win32.Build.0 = Debug|Win32
+		{87EB9E95-A1D7-47A6-AB26-FACEFB2A38C3}.Release|Win32.ActiveCfg = Release|Win32
+		{87EB9E95-A1D7-47A6-AB26-FACEFB2A38C3}.Release|Win32.Build.0 = Release|Win32
+		{CE47B371-7D43-4F70-A138-65E2DE9E27CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE47B371-7D43-4F70-A138-65E2DE9E27CB}.Debug|Win32.Build.0 = Debug|Win32
+		{CE47B371-7D43-4F70-A138-65E2DE9E27CB}.Release|Win32.ActiveCfg = Release|Win32
+		{CE47B371-7D43-4F70-A138-65E2DE9E27CB}.Release|Win32.Build.0 = Release|Win32
+		{0165B4DC-FAB5-411D-AF84-B18E5CF6B248}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0165B4DC-FAB5-411D-AF84-B18E5CF6B248}.Debug|Win32.Build.0 = Debug|Win32
+		{0165B4DC-FAB5-411D-AF84-B18E5CF6B248}.Release|Win32.ActiveCfg = Release|Win32
+		{0165B4DC-FAB5-411D-AF84-B18E5CF6B248}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
